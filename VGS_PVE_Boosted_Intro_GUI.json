@@ -25,7 +25,7 @@
 	  {
         "tab2": {
           "layout": 2,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Shop Commands</>",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">SHOP COMMANDS</>",
           "title1": "<TextStyle.White>Commands used in chat</>",
           "title2": "<TextStyle.White>Description of commands</>",
           "text1": "<TextStyle.White>/points</>\n\n\n\n\n<TextStyle.White>/shop <Page></>\n\n\n\n\n<TextStyle.White>/buy <ID> <Amount></>\n\n\n\n\n<TextStyle.White>/trade <'CharacterName'> <Amount></>"",

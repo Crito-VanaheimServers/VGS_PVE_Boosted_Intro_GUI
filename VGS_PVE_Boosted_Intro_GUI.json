@@ -19,7 +19,7 @@
           "buttontext": "<RichColor Color=\"1,0,0,1\">RULES</>",
           "title1": "<TextStyle.White>Welcome to VGS Island PVE Boosted</>",
           "text1": "<TextStyle.White> 1. Dont't be a douche.\n\n 2. We shouldn't need rules.</>",
-          "text1": "<TextStyle.White>\n 2. We shouldn't need rules.</>",
+          "text2": "<TextStyle.White>\n 2. We shouldn't need rules.</>",
           "imageurl": "https://i.imgur.com/F6RYmUk.png"
         }
       }

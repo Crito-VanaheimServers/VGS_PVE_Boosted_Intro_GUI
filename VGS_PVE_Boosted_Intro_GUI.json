@@ -7,7 +7,7 @@
         "IconURL": "https://i.imgur.com/zTpikCv.png",
         "DisableIconText": false,
         "IconPosition": 3,
-        "IconTextColor": 1,
+        "IconTextColor": 0,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12

@@ -24,25 +24,13 @@
       },
  	{	
         "tab2": {
-          "layout": 8,
+          "layout": 2,
           "buttontext": "<RichColor Color=\"1,0,0,1\">SHOP COMMANDS</>",
           "title1": "<TextStyle.White>Commands used in chat</>",
           "title2": "<TextStyle.White>Description of commands</>",
-	  "title3": "",
-	  "title4": "",
-	  "title5": "",
-	  "title6": "",
-	  "title7": "",
-	  "title8": "",
-          "text1": "<TextStyle.White>/points</>",
-          "text2": "<TextStyle.White>To see your current points balance</>",
-          "text3": "<TextStyle.White>/shop <Page></>",
-          "text4": "<TextStyle.White>To see a list of all available items in the shop</>\n<TextStyle.White>Example: /shop 1 (will show page 1)</>",
-          "text5": "<TextStyle.White>/buy <ID> <Amount></>",
-          "text6": "<TextStyle.White>Buy an item from the shop</>\n<TextStyle.White>Example: /buy Element 10 (buys 10 Element)</>",
-          "text7": "<TextStyle.White>/trade <'CharacterName'> <Amount></>",
-          "text8": "<TextStyle.White>Send points to another player,</>\n<TextStyle.White>Example: /trade 'Crito' 20 (Gives Crito 20 points)</>",
-	  "imageurl": "https://i.imgur.com/F6RYmUk.png"
+          "text1": "<TextStyle.White>/points</>\n\n\n\n\n<TextStyle.White>/shop <Page></>\n\n\n\n\n<TextStyle.White>/buy <ID> <Amount></>\n\n\n\n\n<TextStyle.White>/trade <'CharacterName'> <Amount></>",
+          "text2": "<TextStyle.White>To see your current points balance</>\n\n\n\n\n<TextStyle.White>To see a list of all available items in the shop</>\n<TextStyle.White>Example: /shop 1 (will show page 1)</>\n\n\n\n<TextStyle.White>Buy an item from the shop</>\n<TextStyle.White>Example: /buy Element 10 (buys 10 Element)</>\n\n\n\n<TextStyle.White>Send points to another player,</>\n<TextStyle.White>Example: /trade 'Crito' 20 (Gives Crito 20 points)</>",
+          "imageurl": "https://i.imgur.com/F6RYmUk.png"
         }
       }
     ],

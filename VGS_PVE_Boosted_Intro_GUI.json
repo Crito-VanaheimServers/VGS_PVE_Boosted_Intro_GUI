@@ -22,8 +22,8 @@
           "imageurl": "https://i.imgur.com/F6RYmUk.png"
         }
       },
-	{
-	  {
+ 	{	
+        "tab2": {
           "layout": 2,
           "buttontext": "<RichColor Color=\"1,0,0,1\">SHOP COMMANDS</>",
           "title1": "<TextStyle.White>Commands used in chat</>",

@@ -24,10 +24,16 @@
       },
  	{	
         "tab2": {
-          "layout": 2,
+          "layout": 8,
           "buttontext": "<RichColor Color=\"1,0,0,1\">SHOP COMMANDS</>",
           "title1": "<TextStyle.White>Commands used in chat</>",
           "title2": "<TextStyle.White>Description of commands</>",
+	  "title3": "",
+	  "title4": "",
+	  "title5": "",
+	  "title6": "",
+	  "title7": "",
+	  "title8": "",
           "text1": "<TextStyle.White>/points</>",
           "text2": "<TextStyle.White>To see your current points balance</>",
           "text3": "<TextStyle.White>/shop <Page></>",

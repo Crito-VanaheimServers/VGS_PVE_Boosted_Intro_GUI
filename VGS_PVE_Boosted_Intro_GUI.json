@@ -17,8 +17,8 @@
         "tab1": {
           "layout": 1,
           "buttontext": "<RichColor Color=\"1,0,0,1\">RULES</>",
-          "title1": "<TextStyle.White>Welcome to VGS Island PVE Boosted</>",
-          "text1": "<TextStyle.White>1. Dont't be a douche.</>\n\n<TextStyle.White>2. We shouldn't need rules.</>",
+          "title1": "<TextStyle.Yellow>Welcome to VGS Island PVE Boosted</>",
+          "text1": "<TextStyle.Yellow>1. Dont't be a douche.</>\n\n<TextStyle.Yellow>2. We shouldn't need rules.</>",
           "imageurl": "https://i.imgur.com/F6RYmUk.png"
         }
       },
@@ -26,10 +26,10 @@
         "tab2": {
           "layout": 2,
           "buttontext": "<RichColor Color=\"1,0,0,1\">SHOP COMMANDS</>",
-          "title1": "<TextStyle.White>Commands used in chat</>",
-          "title2": "<TextStyle.White>Description of commands</>",
-          "text1": "<TextStyle.White>/points</>\n\n\n\n\n<TextStyle.White>/shop <Page></>\n\n\n\n\n<TextStyle.White>/buy <ID> <Amount></>\n\n\n\n\n<TextStyle.White>/trade <'CharacterName'> <Amount></>",
-          "text2": "<TextStyle.White>To see your current points balance</>\n\n\n\n\n<TextStyle.White>To see a list of all available items in the shop</>\n<TextStyle.White>Example: /shop 1 (will show page 1)</>\n\n\n\n<TextStyle.White>Buy an item from the shop</>\n<TextStyle.White>Example: /buy Element 10 (buys 10 Element)</>\n\n\n\n<TextStyle.White>Send points to another player,</>\n<TextStyle.White>Example: /trade 'Crito' 20 (Gives Crito 20 points)</>",
+          "title1": "<TextStyle.Yellow>Commands used in chat</>",
+          "title2": "<TextStyle.Yellow>Description of commands</>",
+          "text1": "<TextStyle.Yellow>/points</>\n\n\n\n\n<TextStyle.Yellow>/shop <Page></>\n\n\n\n\n<TextStyle.Yellow>/buy <ID> <Amount></>\n\n\n\n\n<TextStyle.Yellow>/trade <'CharacterName'> <Amount></>",
+          "text2": "<TextStyle.Yellow>To see your current points balance</>\n\n\n\n\n<TextStyle.Yellow>To see a list of all available items in the shop</>\n<TextStyle.Yellow>Example: /shop 1 (will show page 1)</>\n\n\n\n<TextStyle.Yellow>Buy an item from the shop</>\n<TextStyle.Yellow>Example: /buy Element 10 (buys 10 Element)</>\n\n\n\n<TextStyle.Yellow>Send points to another player,</>\n<TextStyle.Yellow>Example: /trade 'Crito' 20 (Gives Crito 20 points)</>",
           "imageurl": "https://i.imgur.com/F6RYmUk.png"
         }
       }
